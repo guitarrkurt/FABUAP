@@ -1,0 +1,17 @@
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/obj/Debug/Assembly-CSharp.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/UnityEngine.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/UnityEditor.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/guitarrkurt/Developer/Unity/FABUAP2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
